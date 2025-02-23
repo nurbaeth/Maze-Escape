@@ -20,7 +20,7 @@ Maze Escape is a thrilling text-based adventure where players navigate a randoml
 
 ## 🚀 Installation
 1. Ensure you have Python installed (>= 3.6).
-2. Clone the repository:
+2. Clone the repository: 
    ```sh
    git clone https://github.com/yourusername/maze-escape.git
    ```
