@@ -13,7 +13,7 @@ Maze Escape is a thrilling text-based adventure where players navigate a randoml
 3. Find the exit (E) without hitting walls (#).
 4. Escape the maze and win! 🎉
  
-## 🏗️ Features
+## 🏗️ Features 
 - Randomly generated mazes for unique gameplay.
 - Simple and intuitive controls.
 - Text-based graphics. 
